@@ -1,0 +1,53 @@
+body {
+    background-image: url("assets/images/tileable_wood_texture.png");
+    background-repeat: repeat;
+    background-color: rgb(240,240,240);
+     /* background-blend-mode: multiply; */
+     
+ }
+thead {
+
+    background-color: rgb(220,221,220);
+    
+    /* width: 100% */
+}
+td {
+    padding: 10px;
+    border: solid;
+    width: 17%;
+}
+table {
+    margin-bottom: 50px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    padding: 10px 10px 0px 10px;
+    /* border: double; */
+    
+
+    
+}
+.form-control {
+    background-color: rgb(254,255,254);
+    border: solid;
+    border-width: thin;
+    font-size: 14px;
+}
+.jumbotron {
+    background-color: rgb(49,55,64);
+    padding: 20px;
+    color: rgb(70,166,84);
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+form {
+    border: solid;
+    background-color: rgb(220,221,220);
+    
+}
+#submitId {
+    margin: 0px 20px 20px 20px;
+}
