@@ -61,4 +61,4 @@ function minsAwayCalc(frequency, timeDiff) {
 }
 
 
-
+console.log(5/2);

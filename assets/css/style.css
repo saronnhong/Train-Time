@@ -1,9 +1,13 @@
 body {
-    background-image: url("assets/images/tileable_wood_texture.png");
+    background-image: url("../images/swirl_pattern.png");
     background-repeat: repeat;
     background-color: rgb(240,240,240);
      /* background-blend-mode: multiply; */
+    color: rgb(60,60,60);
      
+ }
+ tbody{
+    background-color: rgb(240,240,240);
  }
 thead {
 
@@ -14,6 +18,7 @@ thead {
 td {
     padding: 10px;
     border: solid;
+    border-width: 2px;
     width: 17%;
 }
 table {
@@ -34,7 +39,7 @@ h1 {
 .form-control {
     background-color: rgb(254,255,254);
     border: solid;
-    border-width: thin;
+    border-width: 2px;;
     font-size: 14px;
 }
 .jumbotron {
@@ -45,6 +50,7 @@ h1 {
 }
 form {
     border: solid;
+    border-width: 2px;
     background-color: rgb(220,221,220);
     
 }
